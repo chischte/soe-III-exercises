@@ -1,0 +1,13 @@
+C:\git\soe-III-exercises\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+C:\git\soe-III-exercises\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+C:\git\soe-III-exercises\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+C:\git\soe-III-exercises\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+C:\git\soe-III-exercises\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+C:\git\soe-III-exercises\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+C:\git\soe-III-exercises\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csprojAssemblyReference.cache
+C:\git\soe-III-exercises\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+C:\git\soe-III-exercises\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+C:\git\soe-III-exercises\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.CoreCompileInputs.cache
+C:\git\soe-III-exercises\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+C:\git\soe-III-exercises\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb
+C:\git\soe-III-exercises\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.genruntimeconfig.cache
