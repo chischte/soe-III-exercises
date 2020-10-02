@@ -1,0 +1,13 @@
+C:\git\soe-III-exercises\Interface\obj\Debug\netcoreapp3.1\Interface.csprojAssemblyReference.cache
+C:\git\soe-III-exercises\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+C:\git\soe-III-exercises\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+C:\git\soe-III-exercises\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+C:\git\soe-III-exercises\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+C:\git\soe-III-exercises\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+C:\git\soe-III-exercises\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+C:\git\soe-III-exercises\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+C:\git\soe-III-exercises\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+C:\git\soe-III-exercises\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+C:\git\soe-III-exercises\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+C:\git\soe-III-exercises\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+C:\git\soe-III-exercises\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache

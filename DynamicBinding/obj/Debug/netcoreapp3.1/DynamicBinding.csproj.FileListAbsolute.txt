@@ -1,0 +1,13 @@
+C:\git\soe-III-exercises\DynamicBinding\bin\Debug\netcoreapp3.1\DynamicBinding.exe
+C:\git\soe-III-exercises\DynamicBinding\bin\Debug\netcoreapp3.1\DynamicBinding.deps.json
+C:\git\soe-III-exercises\DynamicBinding\bin\Debug\netcoreapp3.1\DynamicBinding.runtimeconfig.json
+C:\git\soe-III-exercises\DynamicBinding\bin\Debug\netcoreapp3.1\DynamicBinding.runtimeconfig.dev.json
+C:\git\soe-III-exercises\DynamicBinding\bin\Debug\netcoreapp3.1\DynamicBinding.dll
+C:\git\soe-III-exercises\DynamicBinding\bin\Debug\netcoreapp3.1\DynamicBinding.pdb
+C:\git\soe-III-exercises\DynamicBinding\obj\Debug\netcoreapp3.1\DynamicBinding.csprojAssemblyReference.cache
+C:\git\soe-III-exercises\DynamicBinding\obj\Debug\netcoreapp3.1\DynamicBinding.AssemblyInfoInputs.cache
+C:\git\soe-III-exercises\DynamicBinding\obj\Debug\netcoreapp3.1\DynamicBinding.AssemblyInfo.cs
+C:\git\soe-III-exercises\DynamicBinding\obj\Debug\netcoreapp3.1\DynamicBinding.csproj.CoreCompileInputs.cache
+C:\git\soe-III-exercises\DynamicBinding\obj\Debug\netcoreapp3.1\DynamicBinding.dll
+C:\git\soe-III-exercises\DynamicBinding\obj\Debug\netcoreapp3.1\DynamicBinding.pdb
+C:\git\soe-III-exercises\DynamicBinding\obj\Debug\netcoreapp3.1\DynamicBinding.genruntimeconfig.cache
