@@ -1,0 +1,16 @@
+D:\Visual C# 2012 Buch 1\Beispiele Visual Studio 2012\Kapitel 5\EventDemonstration\EventDemonstration\bin\Debug\EventDemonstration.exe.config
+D:\Visual C# 2012 Buch 1\Beispiele Visual Studio 2012\Kapitel 5\EventDemonstration\EventDemonstration\bin\Debug\EventDemonstration.exe
+D:\Visual C# 2012 Buch 1\Beispiele Visual Studio 2012\Kapitel 5\EventDemonstration\EventDemonstration\bin\Debug\EventDemonstration.pdb
+D:\Visual C# 2012 Buch 1\Beispiele Visual Studio 2012\Kapitel 5\EventDemonstration\EventDemonstration\obj\Debug\EventDemonstration.csprojResolveAssemblyReference.cache
+D:\Visual C# 2012 Buch 1\Beispiele Visual Studio 2012\Kapitel 5\EventDemonstration\EventDemonstration\obj\Debug\EventDemonstration.exe
+D:\Visual C# 2012 Buch 1\Beispiele Visual Studio 2012\Kapitel 5\EventDemonstration\EventDemonstration\obj\Debug\EventDemonstration.pdb
+D:\Visual C# 2012 Buch 1\Beispiele\Kapitel 5\EventDemonstration\EventDemonstration\bin\Debug\EventDemonstration.exe.config
+D:\Visual C# 2012 Buch 1\Beispiele\Kapitel 5\EventDemonstration\EventDemonstration\obj\Debug\EventDemonstration.exe
+D:\Visual C# 2012 Buch 1\Beispiele\Kapitel 5\EventDemonstration\EventDemonstration\obj\Debug\EventDemonstration.pdb
+H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Übungen\EventDemonstration\EventDemonstration\bin\Debug\EventDemonstration.exe.config
+H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Übungen\EventDemonstration\EventDemonstration\bin\Debug\EventDemonstration.exe
+H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Übungen\EventDemonstration\EventDemonstration\bin\Debug\EventDemonstration.pdb
+H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Übungen\EventDemonstration\EventDemonstration\obj\Debug\EventDemonstration.csprojAssemblyReference.cache
+H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Übungen\EventDemonstration\EventDemonstration\obj\Debug\EventDemonstration.csproj.CoreCompileInputs.cache
+H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Übungen\EventDemonstration\EventDemonstration\obj\Debug\EventDemonstration.exe
+H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Übungen\EventDemonstration\EventDemonstration\obj\Debug\EventDemonstration.pdb

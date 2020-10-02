@@ -1,0 +1,20 @@
+C:\Users\Ahmet\Desktop\Schule\C#\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\Ahmet\Desktop\Schule\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Desktop\Schule\C#\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\Ahmet\Desktop\Schule\C#\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\Ahmet\Desktop\Schule\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\Ahmet\Desktop\Schule\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+H:\Beller\TestProgramme\C# 1\Eigene Übungen\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+H:\Beller\TestProgramme\C# 1\Eigene Übungen\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+H:\Beller\TestProgramme\C# 1\Eigene Übungen\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+H:\Beller\TestProgramme\C# 1\Eigene Übungen\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojAssemblyReference.cache
+H:\Beller\TestProgramme\C# 1\Eigene Übungen\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+H:\Beller\TestProgramme\C# 1\Eigene Übungen\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+H:\Beller\TestProgramme\C# 1\Eigene Übungen\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Lösungen\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Lösungen\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Lösungen\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Lösungen\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Lösungen\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Lösungen\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Lösungen\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojAssemblyReference.cache
