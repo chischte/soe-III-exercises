@@ -1,0 +1,12 @@
+C:\git\soe-III-exercises\LinqDatenbank\bin\Debug\netcoreapp3.1\LinqDatenbank.exe
+C:\git\soe-III-exercises\LinqDatenbank\bin\Debug\netcoreapp3.1\LinqDatenbank.deps.json
+C:\git\soe-III-exercises\LinqDatenbank\bin\Debug\netcoreapp3.1\LinqDatenbank.runtimeconfig.json
+C:\git\soe-III-exercises\LinqDatenbank\bin\Debug\netcoreapp3.1\LinqDatenbank.runtimeconfig.dev.json
+C:\git\soe-III-exercises\LinqDatenbank\bin\Debug\netcoreapp3.1\LinqDatenbank.dll
+C:\git\soe-III-exercises\LinqDatenbank\bin\Debug\netcoreapp3.1\LinqDatenbank.pdb
+C:\git\soe-III-exercises\LinqDatenbank\obj\Debug\netcoreapp3.1\LinqDatenbank.AssemblyInfoInputs.cache
+C:\git\soe-III-exercises\LinqDatenbank\obj\Debug\netcoreapp3.1\LinqDatenbank.AssemblyInfo.cs
+C:\git\soe-III-exercises\LinqDatenbank\obj\Debug\netcoreapp3.1\LinqDatenbank.csproj.CoreCompileInputs.cache
+C:\git\soe-III-exercises\LinqDatenbank\obj\Debug\netcoreapp3.1\LinqDatenbank.dll
+C:\git\soe-III-exercises\LinqDatenbank\obj\Debug\netcoreapp3.1\LinqDatenbank.pdb
+C:\git\soe-III-exercises\LinqDatenbank\obj\Debug\netcoreapp3.1\LinqDatenbank.genruntimeconfig.cache

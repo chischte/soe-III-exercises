@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\Abstraction.csproj", "{E8F049E4-3C1F-4662-9B1E-3CA787545514}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstraction", "Abstraction\Abstraction.csproj", "{E8F049E4-3C1F-4662-9B1E-3CA787545514}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicBinding", "DynamicBinding\DynamicBinding.csproj", "{724A7388-5C8F-4F79-9E09-9E30661A0F47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicBinding", "DynamicBinding\DynamicBinding.csproj", "{724A7388-5C8F-4F79-9E09-9E30661A0F47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{AC1F8704-037E-4F12-99C8-E7B4928186D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface.csproj", "{AC1F8704-037E-4F12-99C8-E7B4928186D2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDemonstration", "EventDemonstration\EventDemonstration.csproj", "{26DDC5AE-538E-432A-94F7-429E34FDDC3D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastDelegateSample1", "MulticastDelegateSample1\MulticastDelegateSample1.csproj", "{21161669-7FA6-48E2-A75B-63F6CE2E58DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqDatenbank", "LinqDatenbank\LinqDatenbank.csproj", "{1EC2D4EA-0F01-42C9-806B-057517C40E74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{21161669-7FA6-48E2-A75B-63F6CE2E58DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21161669-7FA6-48E2-A75B-63F6CE2E58DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21161669-7FA6-48E2-A75B-63F6CE2E58DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EC2D4EA-0F01-42C9-806B-057517C40E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC2D4EA-0F01-42C9-806B-057517C40E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC2D4EA-0F01-42C9-806B-057517C40E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC2D4EA-0F01-42C9-806B-057517C40E74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
