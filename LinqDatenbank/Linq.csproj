@@ -5,4 +5,12 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Solutions.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Solutions.cs" />
+  </ItemGroup>
+
 </Project>
