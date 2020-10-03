@@ -60,10 +60,6 @@ namespace Linq
 
 
 
-
-
-
-
             Console.WriteLine("--------------");
 
             Console.WriteLine("Aufgabe 3");
