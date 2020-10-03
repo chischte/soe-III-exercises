@@ -1,0 +1,13 @@
+C:\git\soe-III-exercises\LinqDatenbank\obj\Debug\netcoreapp3.1\Linq.csprojAssemblyReference.cache
+C:\git\soe-III-exercises\LinqDatenbank\obj\Debug\netcoreapp3.1\Linq.AssemblyInfoInputs.cache
+C:\git\soe-III-exercises\LinqDatenbank\obj\Debug\netcoreapp3.1\Linq.AssemblyInfo.cs
+C:\git\soe-III-exercises\LinqDatenbank\obj\Debug\netcoreapp3.1\Linq.csproj.CoreCompileInputs.cache
+C:\git\soe-III-exercises\LinqDatenbank\bin\Debug\netcoreapp3.1\Linq.exe
+C:\git\soe-III-exercises\LinqDatenbank\bin\Debug\netcoreapp3.1\Linq.deps.json
+C:\git\soe-III-exercises\LinqDatenbank\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.json
+C:\git\soe-III-exercises\LinqDatenbank\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.dev.json
+C:\git\soe-III-exercises\LinqDatenbank\bin\Debug\netcoreapp3.1\Linq.dll
+C:\git\soe-III-exercises\LinqDatenbank\bin\Debug\netcoreapp3.1\Linq.pdb
+C:\git\soe-III-exercises\LinqDatenbank\obj\Debug\netcoreapp3.1\Linq.dll
+C:\git\soe-III-exercises\LinqDatenbank\obj\Debug\netcoreapp3.1\Linq.pdb
+C:\git\soe-III-exercises\LinqDatenbank\obj\Debug\netcoreapp3.1\Linq.genruntimeconfig.cache

@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDemonstration", "Event
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastDelegateSample1", "MulticastDelegateSample1\MulticastDelegateSample1.csproj", "{21161669-7FA6-48E2-A75B-63F6CE2E58DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqDatenbank", "LinqDatenbank\LinqDatenbank.csproj", "{1EC2D4EA-0F01-42C9-806B-057517C40E74}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "LinqDatenbank\Linq.csproj", "{1EC2D4EA-0F01-42C9-806B-057517C40E74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
