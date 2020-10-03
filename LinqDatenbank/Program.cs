@@ -36,15 +36,9 @@ namespace Linq
             Console.WriteLine("Aufgabe 1");
             Console.WriteLine("--------------");
             //TODO Alle Studenten, die Wirtschaft studieren und über 18 Jahre alt sind. (Benützen Sie Extension Methods)
-            //var studentNames1 = _studentList.Where(s => s.Age > 18 && s.EducationId == 1).Select(s => s.Name);
-            //studentNames1.ToList().ForEach(x => Console.WriteLine(x));
-            //Console.WriteLine("------");
+            var studentNames1 = _studentList.Where(s => s.Age > 18 && s.EducationId==1).Select(s=>s.Name);
 
-
-
-
-
-
+            studentNames1.ToList().ForEach(x => Console.WriteLine(x));
 
             Console.WriteLine("--------------");
 
@@ -120,17 +114,17 @@ namespace Linq
         {
             _studentList = new List<Student>(){
                 new Student(){StudentId=1, Name="John", Age= 18, EducationId= 1 },
-                new Student(){StudentId=2, Name="John", Age= 18, EducationId= 1 },
-                new Student(){StudentId=3, Name="John", Age= 18, EducationId= 2 },
-                new Student(){StudentId=4, Name="John", Age= 18, EducationId= 2 },
-                new Student(){StudentId=5, Name="John", Age= 18, EducationId= 3 }
+                new Student(){StudentId=2, Name="Steve", Age= 21, EducationId= 1 },
+                new Student(){StudentId=3, Name="Bill", Age= 18, EducationId= 2 },
+                new Student(){StudentId=4, Name="Ramon", Age= 20, EducationId= 2 },
+                new Student(){StudentId=5, Name="Roland", Age= 21, EducationId= 3 }
             };
             _studentList.Add(new Student() { StudentId = 6, Name = "John", Age = 18, EducationId = 3 });
 
             _educationList = new List<Education>(){
                 new Education(){EducationId=1, Name="Wirtschaft"},
                 new Education(){EducationId=2, Name="Medizin"},
-                new Education(){EducationId=3, Name="Informatik"} 
+                new Education(){EducationId=3, Name="Informatik"}
             };
             _educationList.Add(new Education() { EducationId = 4, Name = "Tagedieb" });
         }
