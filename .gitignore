@@ -8,3 +8,5 @@
 *.suo
 
 .vs/soe-III-exercises/DesignTimeBuild/
+
+*.cache
