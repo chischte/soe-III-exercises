@@ -14,3 +14,10 @@ H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Übungen\EventDemonstration\Even
 H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Übungen\EventDemonstration\EventDemonstration\obj\Debug\EventDemonstration.csproj.CoreCompileInputs.cache
 H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Übungen\EventDemonstration\EventDemonstration\obj\Debug\EventDemonstration.exe
 H:\Beller\Schulungsterlagen\Juventus\04_09_2020\Übungen\EventDemonstration\EventDemonstration\obj\Debug\EventDemonstration.pdb
+C:\git\soe-III-exercises\EventDemonstration\bin\Debug\EventDemonstration.exe.config
+C:\git\soe-III-exercises\EventDemonstration\bin\Debug\EventDemonstration.exe
+C:\git\soe-III-exercises\EventDemonstration\bin\Debug\EventDemonstration.pdb
+C:\git\soe-III-exercises\EventDemonstration\obj\Debug\EventDemonstration.csprojAssemblyReference.cache
+C:\git\soe-III-exercises\EventDemonstration\obj\Debug\EventDemonstration.csproj.CoreCompileInputs.cache
+C:\git\soe-III-exercises\EventDemonstration\obj\Debug\EventDemonstration.exe
+C:\git\soe-III-exercises\EventDemonstration\obj\Debug\EventDemonstration.pdb
