@@ -15,7 +15,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastDelegateSample1", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq", "LinqDatenbank\Linq.csproj", "{1EC2D4EA-0F01-42C9-806B-057517C40E74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovie", "MvcMovie\MvcMovie.csproj", "{95F4134C-D728-4599-A06A-5415FD22749A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcMovie", "MvcMovie\MvcMovie.csproj", "{95F4134C-D728-4599-A06A-5415FD22749A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsAndDelegates", "EventsAndDelegates\EventsAndDelegates.csproj", "{1BAB92C0-CED7-4D89-BD69-5AFEC12302E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{95F4134C-D728-4599-A06A-5415FD22749A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95F4134C-D728-4599-A06A-5415FD22749A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95F4134C-D728-4599-A06A-5415FD22749A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BAB92C0-CED7-4D89-BD69-5AFEC12302E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BAB92C0-CED7-4D89-BD69-5AFEC12302E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BAB92C0-CED7-4D89-BD69-5AFEC12302E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BAB92C0-CED7-4D89-BD69-5AFEC12302E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
