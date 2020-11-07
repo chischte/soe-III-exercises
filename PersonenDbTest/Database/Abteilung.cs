@@ -17,13 +17,13 @@ namespace PersonenDbTest.Database
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Abteilung()
         {
-            this.People = new HashSet<Person>();
+            this.AbteilungID = new HashSet<Person>();
         }
     
-        public int Id { get; set; }
-        public string Abteilung1 { get; set; }
+        public int AbteilungId { get; set; }
+        public string AbteilungName { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Person> People { get; set; }
+        public virtual ICollection<Person> AbteilungID { get; set; }
     }
 }

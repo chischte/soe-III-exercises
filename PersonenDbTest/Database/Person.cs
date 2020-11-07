@@ -14,15 +14,14 @@ namespace PersonenDbTest.Database
     
     public partial class Person
     {
-        public int Id { get; set; }
+        public int PersonId { get; set; }
         public string Name { get; set; }
         public string SecondName { get; set; }
         public string Street { get; set; }
         public string Plz { get; set; }
         public string Place { get; set; }
-        public Nullable<int> AbteilungId { get; set; }
-        public int AbteilungId1 { get; set; }
+        public int AbteilungAbteilungId { get; set; }
     
-        public virtual Abteilung Abteilung { get; set; }
+        public virtual Abteilung PersonID { get; set; }
     }
 }

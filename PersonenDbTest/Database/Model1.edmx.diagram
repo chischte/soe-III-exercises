@@ -5,9 +5,9 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="3cf500808330433f87f6697ded0f198b" Name="Diagram1">
-        <EntityTypeShape EntityType="PersonenverwaltungModel.Abteilung" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="PersonenverwaltungModel.Person" Width="1.5" PointX="3.875" PointY="0.625" IsExpanded="true" />
-        <AssociationConnector Association="PersonenverwaltungModel.AbteilungPerson" />
+        <EntityTypeShape EntityType="PersonenverwaltungModel.Abteilung" Width="1.5" PointX="6.625" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonenverwaltungModel.Person" Width="1.5" PointX="3.125" PointY="1.875" IsExpanded="true" />
+        <AssociationConnector Association="PersonenverwaltungModel.PersonAbteilung" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

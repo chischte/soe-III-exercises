@@ -51,43 +51,42 @@
       <Schema Namespace="PersonenverwaltungModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
         <EntityType Name="Abteilung">
           <Key>
-            <PropertyRef Name="Id" />
+            <PropertyRef Name="AbteilungId" />
           </Key>
-          <Property Name="Id" Type="Int32" Nullable="false" />
-          <Property Name="Abteilung1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
-          <NavigationProperty Name="People" Relationship="PersonenverwaltungModel.AbteilungPerson" FromRole="Abteilung" ToRole="Person" />
+          <Property Name="AbteilungId" Type="Int32" Nullable="false" />
+          <Property Name="AbteilungName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="AbteilungID" Relationship="PersonenverwaltungModel.PersonAbteilung" FromRole="Abteilung" ToRole="Person" />
         </EntityType>
         <EntityType Name="Person">
           <Key>
-            <PropertyRef Name="Id" />
+            <PropertyRef Name="PersonId" />
           </Key>
-          <Property Name="Id" Type="Int32" Nullable="false" />
+          <Property Name="PersonId" Type="Int32" Nullable="false" />
           <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
           <Property Name="SecondName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
           <Property Name="Street" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
           <Property Name="Plz" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
           <Property Name="Place" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
-          <Property Name="AbteilungId" Type="Int32" />
-          <NavigationProperty Name="Abteilung" Relationship="PersonenverwaltungModel.AbteilungPerson" FromRole="Person" ToRole="Abteilung" />
-          <Property Name="AbteilungId1" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="PersonID" Relationship="PersonenverwaltungModel.PersonAbteilung" FromRole="Person" ToRole="Abteilung" />
+          <Property Name="AbteilungAbteilungId" Type="Int32" Nullable="false" />
         </EntityType>
         <EntityContainer Name="PersonenverwaltungEntities" annotation:LazyLoadingEnabled="true">
-          <EntitySet Name="Abteilungs" EntityType="Self.Abteilung" />
-          <EntitySet Name="People" EntityType="Self.Person" />
-          <AssociationSet Name="AbteilungPerson" Association="PersonenverwaltungModel.AbteilungPerson">
-            <End Role="Abteilung" EntitySet="Abteilungs" />
-            <End Role="Person" EntitySet="People" />
+          <EntitySet Name="Abteilung" EntityType="Self.Abteilung" />
+          <EntitySet Name="Person" EntityType="Self.Person" />
+          <AssociationSet Name="PersonAbteilung" Association="PersonenverwaltungModel.PersonAbteilung">
+            <End Role="Person" EntitySet="Person" />
+            <End Role="Abteilung" EntitySet="Abteilung" />
           </AssociationSet>
         </EntityContainer>
-        <Association Name="AbteilungPerson">
-          <End Type="PersonenverwaltungModel.Abteilung" Role="Abteilung" Multiplicity="1" />
+        <Association Name="PersonAbteilung">
           <End Type="PersonenverwaltungModel.Person" Role="Person" Multiplicity="*" />
+          <End Type="PersonenverwaltungModel.Abteilung" Role="Abteilung" Multiplicity="1" />
           <ReferentialConstraint>
             <Principal Role="Abteilung">
-              <PropertyRef Name="Id" />
+              <PropertyRef Name="AbteilungId" />
             </Principal>
             <Dependent Role="Person">
-              <PropertyRef Name="AbteilungId1" />
+              <PropertyRef Name="AbteilungAbteilungId" />
             </Dependent>
           </ReferentialConstraint>
         </Association>
@@ -97,25 +96,23 @@
     <edmx:Mappings>
     <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
   <EntityContainerMapping StorageEntityContainer="PersonenverwaltungModelStoreContainer" CdmEntityContainer="PersonenverwaltungEntities">
-    <EntitySetMapping Name="Abteilungs">
+    <EntitySetMapping Name="Abteilung">
       <EntityTypeMapping TypeName="IsTypeOf(PersonenverwaltungModel.Abteilung)">
         <MappingFragment StoreEntitySet="Abteilungs">
-          <ScalarProperty Name="Id" ColumnName="Id" />
-          <ScalarProperty Name="Abteilung1" ColumnName="Abteilung1" />
+          <ScalarProperty Name="AbteilungId" ColumnName="Id" />
+          <ScalarProperty Name="AbteilungName" ColumnName="Abteilung1" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
-    <EntitySetMapping Name="People">
+    <EntitySetMapping Name="Person">
       <EntityTypeMapping TypeName="IsTypeOf(PersonenverwaltungModel.Person)">
         <MappingFragment StoreEntitySet="People">
-          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="PersonId" ColumnName="Id" />
           <ScalarProperty Name="Name" ColumnName="Name" />
           <ScalarProperty Name="SecondName" ColumnName="SecondName" />
           <ScalarProperty Name="Street" ColumnName="Street" />
           <ScalarProperty Name="Plz" ColumnName="Plz" />
           <ScalarProperty Name="Place" ColumnName="Place" />
-          <ScalarProperty Name="AbteilungId" ColumnName="AbteilungId" />
-          <ScalarProperty Name="AbteilungId1" ColumnName="AbteilungId1" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

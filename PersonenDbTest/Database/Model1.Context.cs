@@ -25,7 +25,7 @@ namespace PersonenDbTest.Database
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<Abteilung> Abteilungs { get; set; }
-        public virtual DbSet<Person> People { get; set; }
+        public virtual DbSet<Abteilung> Abteilung { get; set; }
+        public virtual DbSet<Person> Person { get; set; }
     }
 }
