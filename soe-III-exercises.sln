@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventsAndDelegates", "Event
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelFirstSample", "ModelFirstSample\ModelFirstSample.csproj", "{FAFF9E46-8A54-4EEA-9DF0-10C1DFAE089C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonenDbTest", "PersonenDbTest\PersonenDbTest.csproj", "{F2CE3C92-244A-4CB7-980F-229CDB080EA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{FAFF9E46-8A54-4EEA-9DF0-10C1DFAE089C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAFF9E46-8A54-4EEA-9DF0-10C1DFAE089C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAFF9E46-8A54-4EEA-9DF0-10C1DFAE089C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2CE3C92-244A-4CB7-980F-229CDB080EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CE3C92-244A-4CB7-980F-229CDB080EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CE3C92-244A-4CB7-980F-229CDB080EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CE3C92-244A-4CB7-980F-229CDB080EA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
