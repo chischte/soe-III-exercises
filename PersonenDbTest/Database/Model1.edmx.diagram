@@ -5,7 +5,7 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="3cf500808330433f87f6697ded0f198b" Name="Diagram1">
-        <EntityTypeShape EntityType="PersonenverwaltungModel.Abteilung" Width="1.5" PointX="6.625" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonenverwaltungModel.Abteilung" Width="1.5" PointX="6.625" PointY="2.125" IsExpanded="true" />
         <EntityTypeShape EntityType="PersonenverwaltungModel.Person" Width="1.5" PointX="3.125" PointY="1.875" IsExpanded="true" />
         <AssociationConnector Association="PersonenverwaltungModel.PersonAbteilung" />
       </Diagram>
