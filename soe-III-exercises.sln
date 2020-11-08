@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelFirstSample", "ModelFi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonenDbTest", "PersonenDbTest\PersonenDbTest.csproj", "{F2CE3C92-244A-4CB7-980F-229CDB080EA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPersonenverwaltung", "WpfPersonenverwaltung\WpfPersonenverwaltung.csproj", "{D8B90244-421F-441F-8640-9B763684E803}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{F2CE3C92-244A-4CB7-980F-229CDB080EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2CE3C92-244A-4CB7-980F-229CDB080EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2CE3C92-244A-4CB7-980F-229CDB080EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B90244-421F-441F-8640-9B763684E803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B90244-421F-441F-8640-9B763684E803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B90244-421F-441F-8640-9B763684E803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B90244-421F-441F-8640-9B763684E803}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
